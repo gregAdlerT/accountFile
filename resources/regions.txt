@@ -1,0 +1,15 @@
+REGION_DATA{ id= 1, name=Israel  }
+REGION_DATA{ id= 2, name=Israel  }
+REGION_DATA{ id= 3, name=Israel  }
+REGION_DATA{ id= 4, name=Israel  }
+REGION_DATA{ id= 5, name=Israel  }
+REGION_DATA{ id= 6, name=Israel  }
+REGION_DATA{ id= 7, name=Israel  }
+REGION_DATA{ id= 8, name=Israel  }
+REGION_DATA{ id= 9, name=Israel  }
+REGION_DATA{ id= 10, name=Israel }
+REGION_DATA{ id= 11, name=Israel }
+REGION_DATA{ id= 12, name=Israel }
+REGION_DATA{ id= 13, name=Israel }
+REGION_DATA{ id= 14, name=Israel }
+REGION_DATA{ id= 15, name=Israel}
